@@ -1,8 +1,8 @@
 {
-	"name": "bsa-coc7",
-	"title": "Beaver's System Adaption coc7",
-	"version": "1.0.0",
-	"description": "Beaver's System Adaption coc7",
+	"name": "bsa-CoC7",
+	"title": "Beaver's System Adaption CoC7",
+	"version": "1.0.3",
+	"description": "Beaver's System Adaption CoC7",
 	"devDir": "c:\\vtts\\v12.331\\Data\\modules",
 	"#devDir": "c:\\vtts\\v11.315\\Data\\modules",
 	"main": "src/main.js",

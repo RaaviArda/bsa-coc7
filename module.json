@@ -1,8 +1,8 @@
 {
-    "title": "Beaver's System Adaption coc7 ( Call of Cthulhu 7ed )",
+    "title": "Beaver's System Adaption CoC7 ( Call of Cthulhu 7ed )",
     "description": "Call of Cthulhu implementation for Beaver's System Interface",
-    "id": "bsa-coc7",
-    "version": "1.0.0",
+    "id": "bsa-CoC7",
+    "version": "1.0.3",
     "authors": [
       {
         "name": "Raavi Arda",
