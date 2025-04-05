@@ -6,3 +6,6 @@
 
 # 1.0.2
 - Fixed filenames
+
+# 1.0.3
+- Fixed camel case
