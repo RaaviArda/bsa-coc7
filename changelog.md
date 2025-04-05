@@ -9,3 +9,6 @@
 
 # 1.0.3
 - Fixed camel case
+
+# 1.0.4
+- Changed TS files to JS
