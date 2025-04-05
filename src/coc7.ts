@@ -1,4 +1,4 @@
-import {CUSTOM_SKILLS, NAMESPACE} from "./coc7Settings.js";
+import {CUSTOM_SKILLS, NAMESPACE} from "./coc7Settings.ts";
 
 export class coc7 implements SystemApi {
 
