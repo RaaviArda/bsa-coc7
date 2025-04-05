@@ -1,0 +1,36 @@
+{
+    "title": "Beaver's System Adaption coc7 ( Call of Cthulhu 7ed )",
+    "description": "Call of Cthulhu implementation for Beaver's System Interface",
+    "id": "bsa-coc7",
+    "version": "1.0.0",
+    "authors": [
+      {
+        "name": "Raavi Arda",
+        "url": "https://github.com/RaaviArda"
+      }
+    ],
+    "languages": [
+    ],
+    "esmodules": [
+      "src/main.js"
+    ],
+    "styles": [
+
+    ],
+    "packs": [
+    ],
+    "url": "https://github.com/RaaviArda/bsa-coc7",
+    "manifest": "https://github.com/RaaviArda/bsa-coc7/releases/latest/download/module.json",
+    "download": "https://github.com/RaaviArda/bsa-coc7/releases/latest/download/bsa-coc7.zip",
+    "relationships": {
+      "systems": [
+        {
+          "id": "coc7"
+        }
+      ]
+    },
+    "compatibility": {
+      "minimum": "10",
+      "verified": "12"
+    }
+  }
